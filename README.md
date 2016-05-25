@@ -27,7 +27,3 @@ You can try the guestbook.
 
 You can also "stress test" it by running `python guestbook/guestbookpy/stress.py http://$PUBLIC_IP_OF_THE_FRONTEND_LOAD_BALANCER`
 (requires the `requests` library)
-
-Dashboard:
-https://app.datadoghq.com/screen/63047/guestbook-monitoring
-(org name: remi)
